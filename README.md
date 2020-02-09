@@ -20,6 +20,9 @@ coverage run -m pytest
 coverage html
 ```
 ### misc
-`python -c 'import os; print(os.urandom(16))'`
+```
+python -c 'import os; print(os.urandom(16))'
+
 venv/var/flaskr-instance/config.py
 SECRET_KEY = b'_5#y2L"F4Q8z\n\xec]/'
+```
