@@ -1,5 +1,7 @@
 = kat_flaskr
 
+https://flask.palletsprojects.com/en/1.1.x/tutorial/
+
 == commands
 
 === build and deploy
