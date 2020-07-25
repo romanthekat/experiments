@@ -1,3 +1,5 @@
 = Python experiments
 
 == link:kat-flaskr/README.adoc[flask]
+
+== link:django/README.adoc[django]

@@ -1,0 +1,19 @@
+= django
+
+https://docs.djangoproject.com/en/3.0/intro/
+
+== commands
+
+=== build and deploy
+----
+pipenv shell
+pipenv sync
+
+----
+
+=== tests
+----
+pytest
+coverage run -m pytest
+coverage html
+----
