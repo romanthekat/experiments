@@ -18,6 +18,9 @@ python manage.py runserver
 === tests
 ----
 python manage.py test polls
+
+coverage run --source='.' manage.py test polls
+coverage report
 ----
 
 === misc
