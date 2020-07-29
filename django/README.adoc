@@ -9,11 +9,19 @@ https://docs.djangoproject.com/en/3.0/intro/
 pipenv shell
 pipenv sync
 
+python manage.py showmigrations
+python managa.py migrate
+
+python manage.py runserver
 ----
 
 === tests
 ----
-pytest
-coverage run -m pytest
-coverage html
+python manage.py test polls
+----
+
+=== misc
+----
+python manage.py shell
+python manage.py makemigrations
 ----
