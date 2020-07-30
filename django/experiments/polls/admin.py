@@ -21,3 +21,6 @@ class QuestionAdmin(admin.ModelAdmin):
 
 
 admin.site.register(Question, QuestionAdmin)
+
+# real way to update admin panel settings instead of template override
+# admin.AdminSite.site_header = "Polls Administration"
