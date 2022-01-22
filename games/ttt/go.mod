@@ -1,4 +1,4 @@
-module github.com/EvilKhaosKat/experiments/games/ttt
+module github.com/romanthekat/experiments/games/ttt
 
 go 1.15
 

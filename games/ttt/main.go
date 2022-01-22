@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/EvilKhaosKat/experiments/games/ttt/core"
+	"github.com/romanthekat/experiments/games/ttt/core"
 	"github.com/rivo/tview"
 	"time"
 )
